@@ -11,6 +11,12 @@ function App() {
           Hello Max!
         </p>
 
+        <div className="gallery__tutorials">
+          <p>Projects based on tutorials:</p>
+          <a href="https://out-a-time.github.io/tutorial-jsm-react-1-chatgpt/">Link 1 - Chat-GPT3</a>
+
+        </div>
+
       </header>
     </div>
   );
